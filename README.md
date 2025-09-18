@@ -33,8 +33,6 @@
 ```dart
 class Felix {
   var pronouns = ["he", "him"];
-  var languages = ["Dart", "Flutter", "JavaScript", "HTML", "CSS", "Kotlin"];
-  var tools = ["Flutter", "Git", "Docker"];
   var architecture = ["Mobile Apps", "Clean Architecture"];
 
   var projects = {
