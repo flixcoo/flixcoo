@@ -52,45 +52,7 @@ class Felix {
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332.0%20thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-🌆 Daytime                1029 commits        ██████████░░░░░░░░░░░░░░░   38.41 % 
-🌃 Evening                1159 commits        ███████████░░░░░░░░░░░░░░   43.26 % 
-🌙 Night                  220 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Dart                     5 hrs 33 mins       ███████████████████░░░░░░   77.10 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Application Resource Bund25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-
-🐱‍💻 Projects: 
-kleinanzeigen_text_genera4 hrs 38 mins       ████████████████░░░░░░░░░   64.24 % 
-cabo_counter             2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.52 % 
-main.dart                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-💻 Operating System: 
-Mac                      7 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 18/09/2025 09:59:54 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=flixcoo&theme=onedark&row=1)
