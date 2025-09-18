@@ -26,7 +26,7 @@
 
 ![MacOs](https://img.shields.io/badge/System-MacOS-informational?style=flat&logo=apple&logoColor=FFFFFF&color=222)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&color=FF2D20&logo=github-actions&logoColor=FF2D20)
-![Containerized](https://img.shields.io/badge/Containering-Docker-informational?style=flat&color=2496ED&logo=docker&logoColor=2496ED)
+![Containerization](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&color=2496ED&logo=docker&logoColor=2496ED)
 
 ## About Me
 
