@@ -20,7 +20,7 @@ Languages & Tools I use :)
 ![Bootstrap](https://img.shields.io/badge/Web-Bootstrap_5-informational?style=flat&color=7952B3&logo=bootstrap&logoColor=7952B3)
 
 ![MacOs](https://img.shields.io/badge/System-MacOS-informational?style=flat&logo=apple&logoColor=FFFFFF&color=222)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&color=FF2D20&logo=github-actions&logoColor=FF2D20)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&color=DD5D20&logo=github-actions&logoColor=DD5D20)
 ![Containerization](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&color=2496ED&logo=docker&logoColor=2496ED)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
