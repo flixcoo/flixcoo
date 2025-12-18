@@ -12,12 +12,8 @@ Part of [Liquid Development](https://github.com/LiquidDevelopmentDE)
 ## Skills & Tools
 Languages & Tools I use :)
 
-![Flutter](https://img.shields.io/badge/Multi--Platform-Flutter-informational?style=flat&color=027DFD&logo=flutter&logoColor=027DFD)
-![Kotlin](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&color=7F52FF&logo=kotlin&logoColor=7F52FF)
-![HTML](https://img.shields.io/badge/Web-HTML5-informational?style=flat&color=E34F26&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/Web-CSS3-informational?style=flat&color=F43059&logo=css&logoColor=F43059)
-![JavaScript](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Web-Bootstrap_5-informational?style=flat&color=7952B3&logo=bootstrap&logoColor=7952B3)
+![Flutter](https://img.shields.io/badge/Mobile_Apps-Flutter-informational?style=flat&color=027DFD&logo=flutter&logoColor=027DFD)
+![Vue.js](https://img.shields.io/badge/Web_Apps-Vue.js-informational?style=flat&color=4FC08D&logo=vue.js&logoColor=4FC08D)
 
 ![MacOs](https://img.shields.io/badge/System-MacOS-informational?style=flat&logo=apple&logoColor=FFFFFF&color=222)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&color=DD5D20&logo=github-actions&logoColor=DD5D20)
