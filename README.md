@@ -4,9 +4,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/flixcoo?style=social)](https://github.com/flixcoo)
 -->
 
-> 🎓 Computer Science Student at [Leipzig University of Applied Sciences](https://htwk-leipzig.de)
+Computer Science Student at [Leipzig University of Applied Sciences](https://htwk-leipzig.de)
 
->  💻 Part of [Liquid Development](https://github.com/LiquidDevelopmentDE)
+Part of [Liquid Development](https://github.com/LiquidDevelopmentDE)
 
 <!-- ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=flixcoo&show_icons=true&theme=radical) -->
 ## Skills & Tools
@@ -23,28 +23,6 @@ Languages & Tools I use :)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&color=DD5D20&logo=github-actions&logoColor=DD5D20)
 ![Containerization](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&color=2496ED&logo=docker&logoColor=2496ED)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-## About Me
-
-```dart
-class Felix {
-  var pronouns = ["he", "him"];
-  var architecture = ["Mobile Apps", "Clean Architecture"];
-
-  var projects = {
-    "Cabo Counter": "Score tracker for the card game Cabo",
-    "WatchWise": "Movie app (HTWK Leipzig, Mobile Computing module)",
-    "Cowsense": "NFC sensor management app for cows",
-    "DB Streckenband": "WebApp for railway track visualization (HTWK Leipzig, Software Project module)"
-  };
-
-  var aboutMe = {
-    "location": "Leipzig, Germany",
-    "status": "Student at HTWK Leipzig",
-    "hobby1": "Drummer",
-    "hobby2": "Enjoys spending time outdoors"
-  };
-```
 
 ## Coding Stats
 <!--START_SECTION:waka-->
