@@ -22,7 +22,7 @@ Languages & Tools I use :)
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-364.8%20thousand%20lines%20of%20code-blue)
 
@@ -73,7 +73,7 @@ Mac                      10 hrs 27 mins      ███████████�
 ```
 
 
- Last Updated on 20/12/2025 05:11:14 UTC
+ Last Updated on 21/12/2025 05:12:51 UTC
 <!--END_SECTION:waka-->
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=flixcoo&theme=onedark&row=1)
