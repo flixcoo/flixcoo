@@ -78,5 +78,3 @@ Windows                  18 mins             █░░░░░░░░░░�
 
  Last Updated on 14/02/2026 05:38:51 UTC
 <!--END_SECTION:waka-->
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=flixcoo&theme=onedark&row=1)
