@@ -14,6 +14,7 @@ Languages & Tools I use :)
 
 ![Flutter](https://img.shields.io/badge/Mobile_Apps-Flutter-informational?style=flat&color=027DFD&logo=flutter&logoColor=027DFD)
 ![Vue.js](https://img.shields.io/badge/Web_Apps-Vue.js-informational?style=flat&color=4FC08D&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/Websites-React-informational?style=flat&color=00DBFF&logo=react&logoColor=00DBFF)
 
 ![MacOs](https://img.shields.io/badge/System-MacOS-informational?style=flat&logo=apple&logoColor=FFFFFF&color=222)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&color=DD5D20&logo=github-actions&logoColor=DD5D20)
