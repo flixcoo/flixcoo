@@ -23,7 +23,7 @@ Languages & Tools I use :)
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.02%20million%20lines%20of%20code-blue?style=flat)
 
@@ -61,10 +61,15 @@ YAML                     0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 IntelliJ IDEA            6 hrs 30 mins       █████████████████████████   100.00 % 
 
+🐱‍💻 Projects: 
+cabo_counter             5 hrs 41 mins       ██████████████████████░░░   87.63 % 
+tallee                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
 💻 Operating System: 
 Mac                      6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/02/2026 05:50:36 UTC
+ Last Updated on 26/02/2026 13:05:31 UTC
 <!--END_SECTION:waka-->
