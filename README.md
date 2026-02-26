@@ -23,7 +23,7 @@ Languages & Tools I use :)
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.02%20million%20lines%20of%20code-blue?style=flat)
 
@@ -54,17 +54,17 @@ Sunday                   1559 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Dart                     6 hrs 14 mins       █████████████████████████   99.01 % 
-Application Resource Bund3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Dart                     6 hrs 26 mins       █████████████████████████   99.04 % 
+Application Resource Bund3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 18 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/02/2026 05:54:14 UTC
+ Last Updated on 26/02/2026 05:50:36 UTC
 <!--END_SECTION:waka-->
