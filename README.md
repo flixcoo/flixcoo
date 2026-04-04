@@ -54,20 +54,18 @@ Sunday                   1452 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TeX                      28 mins             ██████████████░░░░░░░░░░░   55.99 % 
-LaTeX source file        21 mins             ███████████░░░░░░░░░░░░░░   42.48 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Repository               50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/04/2026 06:06:40 UTC
+ Last Updated on 04/04/2026 05:49:41 UTC
 <!--END_SECTION:waka-->
