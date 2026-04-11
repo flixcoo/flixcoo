@@ -23,6 +23,8 @@ Languages & Tools I use :)
 
 ## Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2042%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.09%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -66,5 +68,5 @@ Mac                      3 hrs 11 mins       ███████████�
 ```
 
 
- Last Updated on 10/04/2026 06:27:03 UTC
+ Last Updated on 11/04/2026 05:53:42 UTC
 <!--END_SECTION:waka-->
