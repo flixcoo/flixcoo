@@ -25,4 +25,5 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_PROJECTS: true
           IGNORED_REPOS: "flixcoo, schulki.de"
+          IGNORED_LANGUAGES: YAML JSON TOML
           
