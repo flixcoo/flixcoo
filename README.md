@@ -23,51 +23,10 @@ Languages & Tools I use :)
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.35%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                892 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-🌆 Daytime                3658 commits        █████████░░░░░░░░░░░░░░░░   36.46 % 
-🌃 Evening                4752 commits        ████████████░░░░░░░░░░░░░   47.36 % 
-🌙 Night                  732 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1616 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Tuesday                  1338 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Wednesday                1538 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Thursday                 1274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Friday                   1142 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Saturday                 1428 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Sunday                   1698 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-Vue                      15 hrs 5 mins       █████████████░░░░░░░░░░░░   52.46 % 
-Dart                     9 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.04 % 
-Blade Template           1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-PHP                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-
-🔥 Editors: 
-PhpStorm                 18 hrs 48 mins      ████████████████░░░░░░░░░   65.37 % 
-IntelliJ IDEA            9 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.63 % 
-
-💻 Operating System: 
-Mac                      28 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 13/05/2026 07:46:25 UTC
+ Last Updated on 14/05/2026 07:38:16 UTC
 <!--END_SECTION:waka-->
