@@ -1,14 +1,11 @@
 # Hey, I'm Felix 
-<!--
 [![GitHub followers](https://img.shields.io/github/followers/flixcoo?style=social)](https://github.com/flixcoo)
 [![GitHub stars](https://img.shields.io/github/stars/flixcoo?style=social)](https://github.com/flixcoo)
--->
 
-→ Computer Science Student at [Leipzig University](https://uni-leipzig.de)
+🎓 Computer Science Student at [Leipzig University](https://uni-leipzig.de)  
+🧪 Part of [Liquid Development](https://github.com/LiquidDevelopmentDE)  
+💼 Frontend Developer at [Schulverwalter](https://schulverwalter.de)  
 
-→ Part of [Liquid Development](https://github.com/LiquidDevelopmentDE)
-
-→ Frontend Developer at [Schulverwalter](https://schulverwalter.de)
 
 <!-- ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=flixcoo&show_icons=true&theme=radical) -->
 ## Skills & Tools
