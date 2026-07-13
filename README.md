@@ -8,16 +8,16 @@
 
 
 <!-- ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=flixcoo&show_icons=true&theme=radical) -->
-## Skills & Tools
-Languages & Tools I use :)
+## Languages & Tools
 
-![Flutter](https://img.shields.io/badge/Mobile_Apps-Flutter-informational?style=flat&color=027DFD&logo=flutter&logoColor=027DFD)
-![Vue.js](https://img.shields.io/badge/Web_Apps-Vue.js-informational?style=flat&color=4FC08D&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/Websites-React-informational?style=flat&color=00DBFF&logo=react&logoColor=00DBFF)
+![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&color=027DFD&logo=flutter&logoColor=FFFFFF)
+![Vue.js](https://img.shields.io/badge/Vue.js-informational?style=flat&color=4FC08D&logo=vue.js&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-informational?style=flat&color=00DBFF&logo=react&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&color=3178C6&logo=typescript&logoColor=FFFFFF)
 
-![MacOs](https://img.shields.io/badge/System-MacOS-informational?style=flat&logo=apple&logoColor=FFFFFF&color=222)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&color=DD5D20&logo=github-actions&logoColor=DD5D20)
-![Containerization](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&color=2496ED&logo=docker&logoColor=2496ED)
+![MacOs](https://img.shields.io/badge/MacOS-informational?style=flat&logo=apple&logoColor=FFFFFF&color=222)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-informational?style=flat&color=DD5D20&logo=github-actions&logoColor=FFFFFF)
+![Containerization](https://img.shields.io/badge/Docker-informational?style=flat&color=2496ED&logo=docker&logoColor=FFFFFF)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ## Coding Stats
