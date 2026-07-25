@@ -22,8 +22,6 @@
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%2030%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -53,23 +51,23 @@ Sunday                   1714 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Dart                     11 hrs 29 mins      ███████████░░░░░░░░░░░░░░   44.72 % 
-Vue                      8 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.48 % 
-PHP                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-TypeScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Vue                      13 hrs 48 mins      ███████████░░░░░░░░░░░░░░   45.51 % 
+Dart                     10 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   35.45 % 
+PHP                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+JavaScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+TypeScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 23 mins      ███████████░░░░░░░░░░░░░░   44.30 % 
-PhpStorm                 10 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
-Copilot CLI              3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-WebStorm                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+PhpStorm                 15 hrs 32 mins      █████████████░░░░░░░░░░░░   51.18 % 
+IntelliJ IDEA            10 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   33.85 % 
+Copilot CLI              3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+WebStorm                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      25 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 07:26:26 UTC
+ Last Updated on 25/07/2026 07:10:04 UTC
 <!--END_SECTION:waka-->
