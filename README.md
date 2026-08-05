@@ -22,9 +22,9 @@
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,44 +55,45 @@ Sunday                   1934 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Vue                      16 hrs 5 mins       ████████████████░░░░░░░░░   63.99 % 
-Dart                     5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-JavaScript               1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-PHP                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Vue                      16 hrs 5 mins       ████████████████░░░░░░░░░   62.90 % 
+Dart                     4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+JavaScript               2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+PHP                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-PhpStorm                 15 hrs 54 mins      ████████████████░░░░░░░░░   63.26 % 
-IntelliJ IDEA            5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Copilot CLI              3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+PhpStorm                 15 hrs 54 mins      ████████████████░░░░░░░░░   62.18 % 
+IntelliJ IDEA            4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Copilot CLI              4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+WebStorm                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 💻 Operating System: 
-Mac                      25 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      25 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 36 mins (34.21%)
+⏱ AI Coding Time: 8 hrs 37 mins (33.73%)
 
-✍️ 1,373 lines written by AI, 3,758 lines written by hand (26.76% AI-written)
+✍️ 1,262 lines written by AI, 4,214 lines written by hand (23.05% AI-written)
 
-🔤 0 Input Tokens, 747,086 Output Tokens
+🔤 0 Input Tokens, 712,573 Output Tokens
 
-💵 $18.86 Estimated AI Cost This Week
+💵 $18.79 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 90 AI Prompts
+🧠 13 AI Sessions, 93 AI Prompts
 
-Opus                     1,505 lines         █████████████████████████   100.00 % 
+Opus                     1,405 lines         █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.76% of written lines came from AI
-📄 Detailed Prompter — average 963 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 99.73% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 23.05% of written lines came from AI
+📄 Detailed Prompter — average 947 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 99.75% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/08/2026 07:32:37 UTC
+ Last Updated on 05/08/2026 07:32:39 UTC
 <!--END_SECTION:waka-->
