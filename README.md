@@ -55,44 +55,43 @@ Sunday                   2364 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Vue                      4 hrs               ████████████░░░░░░░░░░░░░   48.52 % 
-TypeScript               3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.06 % 
-JavaScript               55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Vue                      4 hrs 49 mins       ████████████████████░░░░░   79.14 % 
+JavaScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PhpStorm                 3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.01 % 
-WebStorm                 2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
-Copilot CLI              2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+PhpStorm                 3 hrs 58 mins       ████████████████░░░░░░░░░   65.15 % 
+Copilot CLI              2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.85 % 
 
 💻 Operating System: 
-Mac                      8 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 48 mins (58.26%)
+⏱ AI Coding Time: 3 hrs 49 mins (62.81%)
 
-✍️ 988 lines written by AI, 481 lines written by hand (67.26% AI-written)
+✍️ 992 lines written by AI, 299 lines written by hand (76.84% AI-written)
 
-🔤 0 Input Tokens, 243,791 Output Tokens
+🔤 2,137,637 Input Tokens, 246,144 Output Tokens
 
-💵 $7.31 Estimated AI Cost This Week
+💵 $28.42 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 41 AI Prompts
+🧠 6 AI Sessions, 26 AI Prompts
 
-Opus                     1,000 lines         █████████████████████████   100.00 % 
+Opus                     994 lines           █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.26% of written lines came from AI
-📝 Concise Prompter — average 199 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 41.82% of changed lines were hand-edited
+🤖 AI-Driven — 76.84% of written lines came from AI
+📝 Concise Prompter — average 324 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 30.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 05:27:19 UTC
+ Last Updated on 18/08/2026 05:21:24 UTC
 <!--END_SECTION:waka-->
