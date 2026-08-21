@@ -55,42 +55,43 @@ Sunday                   2364 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Vue                      1 hr 8 mins         █████████████████████░░░░   82.30 % 
-JavaScript               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vue                      52 mins             ███████████████░░░░░░░░░░   60.58 % 
+JavaScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Text                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-PhpStorm                 1 hr 1 min          ██████████████████░░░░░░░   73.75 % 
-Copilot CLI              21 mins             ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+PhpStorm                 51 mins             ███████████████░░░░░░░░░░   58.98 % 
+WebStorm                 23 mins             ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+Copilot CLI              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 
 💻 Operating System: 
-Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (49.28%)
+⏱ AI Coding Time: 23 mins (27.13%)
 
-✍️ 95 lines written by AI, 15 lines written by hand (86.36% AI-written)
+✍️ 0 lines written by AI, 39 lines written by hand (0.0% AI-written)
 
-🔤 2,137,637 Input Tokens, 55,882 Output Tokens
+🔤 0 Input Tokens, 14,474 Output Tokens
 
-💵 $23.67 Estimated AI Cost This Week
+💵 $0.60 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-Opus                     96 lines            █████████████████████████   100.00 % 
+Opus                     28 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.36% of written lines came from AI
-📄 Detailed Prompter — average 669 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 914 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 42.86% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 05:22:54 UTC
+ Last Updated on 21/08/2026 05:24:01 UTC
 <!--END_SECTION:waka-->
