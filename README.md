@@ -31,21 +31,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1198 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-🌆 Daytime                5084 commits        █████████░░░░░░░░░░░░░░░░   36.50 % 
-🌃 Evening                6482 commits        ████████████░░░░░░░░░░░░░   46.53 % 
-🌙 Night                  1166 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+🌞 Morning                1198 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+🌆 Daytime                5090 commits        █████████░░░░░░░░░░░░░░░░   36.45 % 
+🌃 Evening                6509 commits        ████████████░░░░░░░░░░░░░   46.61 % 
+🌙 Night                  1169 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1945 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Tuesday                  1733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Wednesday                2241 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Thursday                 1793 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Friday                   1769 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Saturday                 2085 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Sunday                   2364 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Monday                   1978 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Tuesday                  1736 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Wednesday                2241 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Thursday                 1793 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Friday                   1769 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Saturday                 2085 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Sunday                   2364 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 ```
 
 
@@ -55,44 +55,44 @@ Sunday                   2364 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Vue                      52 mins             ████████████░░░░░░░░░░░░░   46.40 % 
-TypeScript               35 mins             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+TypeScript               5 hrs 13 mins       ██████████████████████░░░   88.22 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Vue                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-PhpStorm                 51 mins             ███████████░░░░░░░░░░░░░░   45.18 % 
-WebStorm                 44 mins             ██████████░░░░░░░░░░░░░░░   39.30 % 
-Copilot CLI              17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+WebStorm                 4 hrs 16 mins       ██████████████████░░░░░░░   72.24 % 
+Copilot CLI              1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+PhpStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (37.76%)
+⏱ AI Coding Time: 3 hrs 52 mins (65.51%)
 
-✍️ 2 lines written by AI, 53 lines written by hand (3.64% AI-written)
+✍️ 576 lines written by AI, 431 lines written by hand (57.2% AI-written)
 
-🔤 31,633 Input Tokens, 22,248 Output Tokens
+🔤 31,633 Input Tokens, 150,954 Output Tokens
 
-💵 $1.00 Estimated AI Cost This Week
+💵 $3.54 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 11 AI Prompts
+🧠 6 AI Sessions, 65 AI Prompts
 
-Opus                     30 lines            █████████████████████████   100.00 % 
+Opus                     660 lines           █████████████████████████   100.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.64% of written lines came from AI
-📝 Concise Prompter — average 376 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.14% of changed lines were hand-edited
+⚖️ Balanced with AI — 57.2% of written lines came from AI
+📄 Detailed Prompter — average 1,030 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 53.05% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 05:30:39 UTC
+ Last Updated on 25/08/2026 05:24:17 UTC
 <!--END_SECTION:waka-->
