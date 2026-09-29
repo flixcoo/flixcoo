@@ -22,9 +22,9 @@
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C077%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,48 +55,48 @@ Sunday                   3717 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Dart                     12 hrs 38 mins      ███████████████████░░░░░░   76.32 % 
-YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-PHP                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Vue                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Application Resource Bund23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Dart                     12 hrs 29 mins      █████████████████████░░░░   85.21 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Application Resource Bund23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-IntelliJ IDEA            12 hrs 31 mins      ███████████████████░░░░░░   75.60 % 
-Claude Code              3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-PhpStorm                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-WebStorm                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+IntelliJ IDEA            12 hrs 21 mins      █████████████████████░░░░   84.25 % 
+Claude Code              1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+PhpStorm                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+WebStorm                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      16 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 11 mins (31.3%)
+⏱ AI Coding Time: 3 hrs 25 mins (23.41%)
 
-✍️ 937 lines written by AI, 3,184 lines written by hand (22.74% AI-written)
+✍️ 792 lines written by AI, 3,046 lines written by hand (20.64% AI-written)
 
-🔤 1,245,078 Input Tokens, 290,144 Output Tokens
+🔤 641,528 Input Tokens, 105,081 Output Tokens
 
-💵 $38.29 Estimated AI Cost This Week
+💵 $16.86 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 85 AI Prompts
+🧠 22 AI Sessions, 67 AI Prompts
 
-Opus                     792 lines           ████████████████████░░░░░   81.99 % 
-Sonnet                   174 lines           █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Opus                     792 lines           ███████████████████████░░   93.18 % 
+Sonnet                   58 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.74% of written lines came from AI
-📚 Verbose Prompter — average 1,770 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 97.96% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 20.64% of written lines came from AI
+📄 Detailed Prompter — average 1,207 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 98.32% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 11:22:54 UTC
+ Last Updated on 29/09/2026 11:03:08 UTC
 <!--END_SECTION:waka-->
