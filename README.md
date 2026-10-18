@@ -55,46 +55,46 @@ Sunday                   2601 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Dart                     10 hrs 10 mins      █████████████░░░░░░░░░░░░   53.51 % 
-PHP                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Blade Template           1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Vue                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Dart                     10 hrs 44 mins      ██████████████░░░░░░░░░░░   55.48 % 
+PHP                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Blade Template           1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Vue                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 2 mins       ███████████████░░░░░░░░░░   58.10 % 
-Claude Code              3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-PhpStorm                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-WebStorm                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+IntelliJ IDEA            11 hrs 23 mins      ███████████████░░░░░░░░░░   58.88 % 
+Claude Code              3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+PhpStorm                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+WebStorm                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Mac                      19 hrs              █████████████████████████   100.00 % 
+Mac                      19 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 54 mins (31.04%)
+⏱ AI Coding Time: 5 hrs 52 mins (30.4%)
 
-✍️ 1,808 lines written by AI, 2,714 lines written by hand (39.98% AI-written)
+✍️ 1,808 lines written by AI, 2,870 lines written by hand (38.65% AI-written)
 
-🔤 1,187,956 Input Tokens, 322,193 Output Tokens
+🔤 1,212,891 Input Tokens, 329,372 Output Tokens
 
-💵 $17.79 Estimated AI Cost This Week
+💵 $18.16 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 99 AI Prompts
+🧠 23 AI Sessions, 103 AI Prompts
 
 Opus                     1,809 lines         █████████████████████████   100.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.98% of written lines came from AI
-📚 Verbose Prompter — average 1,694 characters per prompt
+⚖️ Balanced with AI — 38.65% of written lines came from AI
+📚 Verbose Prompter — average 1,624 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 76.94% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 78.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 08:57:03 UTC
+ Last Updated on 18/10/2026 09:14:39 UTC
 <!--END_SECTION:waka-->
