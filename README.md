@@ -55,44 +55,44 @@ Sunday                   5683 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Dart                     5 hrs 29 mins       ███████████████████░░░░░░   76.11 % 
-YAML                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Dart                     4 hrs 3 mins        ████████████████████░░░░░   78.82 % 
+YAML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 43 mins       ████████████████████░░░░░   79.24 % 
-WebStorm                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Claude Code              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-PhpStorm                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+IntelliJ IDEA            4 hrs 14 mins       █████████████████████░░░░   82.29 % 
+Claude Code              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+WebStorm                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+PhpStorm                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (12.33%)
+⏱ AI Coding Time: 37 mins (12.09%)
 
-✍️ 349 lines written by AI, 772 lines written by hand (31.13% AI-written)
+✍️ 35 lines written by AI, 342 lines written by hand (9.28% AI-written)
 
-🔤 281,920 Input Tokens, 56,908 Output Tokens
+🔤 149,894 Input Tokens, 20,818 Output Tokens
 
-💵 $3.27 Estimated AI Cost This Week
+💵 $1.67 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 17 AI Prompts
+🧠 5 AI Sessions, 11 AI Prompts
 
-Opus                     350 lines           █████████████████████████   100.00 % 
+Opus                     35 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 31.13% of written lines came from AI
-📝 Concise Prompter — average 97 characters per prompt
+🧑‍💻 Mostly Hands-On — 9.28% of written lines came from AI
+📝 Concise Prompter — average 92 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 81.98% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.55% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/11/2026 13:12:36 UTC
+ Last Updated on 22/11/2026 13:02:41 UTC
 <!--END_SECTION:waka-->
